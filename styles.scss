@@ -106,6 +106,15 @@ body {
     }
 }
 
+.attribution { 
+    font-size: 10px; 
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    a { 
+        color: #eee; 
+    }
+} 
+
 @media(min-width: 1500px) {
     .container {
         max-width: 1500px;
